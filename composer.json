@@ -9,8 +9,8 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "league/flysystem": "~1.0",
+        "php": "^8.1",
+        "league/flysystem": "^3.0",
         "rackspace/php-opencloud": "~1.16"
     },
     "require-dev": {
